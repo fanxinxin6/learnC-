@@ -1,0 +1,3 @@
+/Users/fanxinxin/personal-learn/learnC-/code/cmake-build-debug/CMakeFiles/code.dir
+/Users/fanxinxin/personal-learn/learnC-/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fanxinxin/personal-learn/learnC-/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
